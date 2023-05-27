@@ -1,0 +1,31 @@
+.contain{
+    background: #01131b;
+    padding:10px;
+    display:flex;
+    color: aliceblue;
+}
+.title{
+    display: flex;
+    align-items: center;
+    font-size:x-large;
+}
+.side-nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: auto;
+    font-size: larger;
+    align-items: center;
+    
+}
+.item{
+    padding-left: 50px;
+}
+.link{
+    color: whitesmoke;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: rgb(233, 18, 125);
+}
